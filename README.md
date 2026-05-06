@@ -2,7 +2,7 @@
 
 Modern batch PDF printing tool for Windows.
 
-![Preview](preview.png)
+![Preview](screenshoot.png)
 
 ## Features
 
